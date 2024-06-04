@@ -1,2 +1,2 @@
-# Module5Challenge
-Karl Schultz's submission for Week 4 Challenge assignment for University of Oregon Data Analytics Bootcamp. To run this project, simply load KSchultz_Module45hallenge.ipnyb as well as Mouse_metadata.csv and study_results.csv files into Jupyter Notebook. Then run .ipnyb file cell by cell to process analysis results.
+# Pharmaceuticals-DataVisualization
+This project visualizes data looking to see if a new skin-cancer medication outperforms competitors already on the market. Data from an animal study on 249 mice with SCC tumors is used. Matplotlib and pandas are used to visualize and summarize the data. Statistical analysis is also used to see if the new medication outperforms those already on the market. To run this project, simply load KSchultz_Module45hallenge.ipnyb as well as Mouse_metadata.csv and study_results.csv files into Jupyter Notebook. Then run .ipnyb file cell by cell to process analysis results.
